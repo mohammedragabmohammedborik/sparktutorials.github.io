@@ -10,6 +10,9 @@ summary: >
 
 <div class="notification"><em>The source code for this tutorial can be found on <a href="https://github.com/tipsy/spark-kotlin" target="_blank">GitHub</a>.</em></div>
 
+### This tutorial is also available for my new java/kotlin framework, [Javalin](https://javalin.io). 
+Check it out at [https://javalin.io/tutorials/simple-kotlin-example](https://javalin.io/tutorials/simple-kotlin-example)
+
 ## What You Will Learn
 
 * Setting up Kotlin with Maven

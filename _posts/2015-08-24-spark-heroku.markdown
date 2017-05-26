@@ -8,6 +8,9 @@ summary: >
  In this tutorial you will learn how to deploy a Hello World application on Heroku!
 ---
 
+### This tutorial is also available for my new java/kotlin framework, [Javalin](https://javalin.io). 
+Check it out at [https://javalin.io/tutorials/heroku](https://javalin.io/tutorials/heroku)
+
 ## What is Heroku?
 <blockquote>
     <p>

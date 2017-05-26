@@ -10,6 +10,9 @@ summary: >
 
 <div class="notification"><em>The source code for this tutorial can be found on <a href="https://github.com/tipsy/spark-basic-structure" target="_blank">GitHub</a>.</em></div>
 
+### This tutorial is also available for my new java/kotlin framework, [Javalin](https://javalin.io). 
+Check it out at [https://javalin.io/tutorials/website-example](https://javalin.io/tutorials/website-example)
+
 ## What You Will Learn
 
 You will learn how to create a basic Spark application with filters, controllers, views, authentication, localization, error handling, and more, but this is not really a full blown tutorial, it's more a description of a basic structure, with certain points of the code highlighted. To get the full benefit of this tutorial, please clone the example on <a href="https://github.com/tipsy/spark-basic-structure" target="_blank">GitHub</a>, run it, and play around.
