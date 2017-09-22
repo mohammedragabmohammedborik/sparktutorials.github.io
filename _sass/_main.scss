@@ -256,9 +256,13 @@ strong {
   font-weight: 700;
 }
 .sister-project {
+    border-left: 5px solid orange;
     background: #4a4a4a;
     color: white;
     padding: 10px;
     font: 15px monospace;
     margin: 20px 0;
+    p {
+        margin: 0;
+    }
 }

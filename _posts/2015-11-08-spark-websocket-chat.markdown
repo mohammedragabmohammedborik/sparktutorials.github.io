@@ -9,7 +9,7 @@ summary: >
 ---
 
 <div class="sister-project" markdown="1">
-This tutorial is also available for my new Java/Kotlin framework, [Javalin](https://javalin.io). 
+This tutorial is also available for my new Java/Kotlin framework, [Javalin](https://javalin.io).<br>
 Check it out at [https://javalin.io/tutorials/websocket-example](https://javalin.io/tutorials/websocket-example)
 </div>
 
